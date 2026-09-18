@@ -1,4 +1,5 @@
 # BetterTridents
+A simple Minecraft Java Edition mod that enhances tridents with Bedrock Edition parity.
 
 ## Setup
 
